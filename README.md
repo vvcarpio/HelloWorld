@@ -1,3 +1,4 @@
+![headshot](small.jpg)
 # A Little insight
 Hello. I write code for a living. And do photography on the side.
 
